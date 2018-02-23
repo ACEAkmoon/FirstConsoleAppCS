@@ -1,0 +1,8 @@
+C:\Users\ACE-Q\Documents\Visual Studio 2012\Projects\FirstConsoleApp\FirstConsoleApp\bin\Debug\FirstConsoleApp.exe.config
+C:\Users\ACE-Q\Documents\Visual Studio 2012\Projects\FirstConsoleApp\FirstConsoleApp\bin\Debug\FirstConsoleApp.exe
+C:\Users\ACE-Q\Documents\Visual Studio 2012\Projects\FirstConsoleApp\FirstConsoleApp\bin\Debug\FirstConsoleApp.pdb
+C:\Users\ACE-Q\Documents\Visual Studio 2012\Projects\FirstConsoleApp\FirstConsoleApp\obj\Debug\FirstConsoleApp.exe
+C:\Users\ACE-Q\Documents\Visual Studio 2012\Projects\FirstConsoleApp\FirstConsoleApp\obj\Debug\FirstConsoleApp.pdb
+C:\Users\ACE-Q\Documents\Visual Studio 2012\Projects\FirstConsoleAppCS\FirstConsoleApp\bin\Debug\FirstConsoleApp.exe.config
+C:\Users\ACE-Q\Documents\Visual Studio 2012\Projects\FirstConsoleAppCS\FirstConsoleApp\obj\Debug\FirstConsoleApp.exe
+C:\Users\ACE-Q\Documents\Visual Studio 2012\Projects\FirstConsoleAppCS\FirstConsoleApp\obj\Debug\FirstConsoleApp.pdb
